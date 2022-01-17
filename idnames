@@ -1,0 +1,92 @@
+meal types :
+5fec6abf75462d0e8c8b9ca8 = Lunch and dinner
+5fec6abf75462d0e8c8b9ca7 = Brunch
+5fec6abf75462d0e8c8b9ca6 = Breakfast
+5fec6abf75462d0e8c8b9cb4 = Snack
+6020e6889ca95a47792c5263 = Sea food
+5fec6abf75462d0e8c8b9cab = Salad
+5fec6abf75462d0e8c8b9cac = starter & appetizer
+5fec6abf75462d0e8c8b9caa = Soup
+5fec6abf75462d0e8c8b9cb1 = Deserts
+5fec6abf75462d0e8c8b9cad = Main Course
+
+dietType :
+5fec725c85b2c132a4458437 = veg
+5fec725c85b2c132a445843b = non-veg
+5fec725c85b2c132a4458439 = Jain
+5fec725c85b2c132a445843a = Eggetarian
+5fec6abf75462d0e8c8b9cad = Vegan
+5fec6abf75462d0e8c8b9cac = Keto
+5fec725c85b2c132a4458435 = Paleo
+5fec725c85b2c132a4458434 = Atkins
+
+cuisine types :
+5fec5400dae5e451af9925c1 = Indian
+5fec5400dae5e451af9925f5 = Rajasthani
+5fec5400dae5e451af9925c2 = North Indian
+5fec5400dae5e451af9925ca = Punjabi
+5fec5400dae5e451af9925ed = Gujarati
+5fec5400dae5e451af9925f2 = Bengali
+5fec5400dae5e451af9925b2 = Chinese
+5fec5400dae5e451af9925c8 = Uttar Pradesh
+5fec5400dae5e451af9925f3 = Odia
+5fec5400dae5e451af992602 = Vietnamese
+5fec5400dae5e451af9925af = Burmese
+5fec5400dae5e451af992629 = Russian
+5fec5400dae5e451af99260f = African
+5fec5400dae5e451af992633 = Mediterranean
+5fec5400dae5e451af992636 = Italian
+5fec5400dae5e451af9925e1 = Andhra
+5fec5400dae5e451af99263f = Australian
+5fec5400dae5e451af99264f = South American
+5fec5400dae5e451af992601 = Thai
+5fec5400dae5e451af9925cb = Mughlai
+5fec5400dae5e451af9925eb = Maharashtrian
+5fec5400dae5e451af9925d3 = Karnataka
+5fec5400dae5e451af99263e = Swiss
+5fec5400dae5e451af992600 = Malaysian
+5fec5400dae5e451af992607 = Lebanese
+5fec5400dae5e451af9925d1 = Kerala
+5fec5400dae5e451af99263c = Dutch
+5fec5400dae5e451af9925bd = Korean
+5fec5400dae5e451af992603 = Middle Eastern
+5fec5400dae5e451af992622 = German
+5fec5400dae5e451af992634 = Greek
+5fec5400dae5e451af99263a = Spanish
+5fec5400dae5e451af9925c3 = Kashmiri
+5fec5400dae5e451af9925cc = Awadhi
+5fec5400dae5e451af9925d0 = South Indian
+5fec5400dae5e451af99263d = French
+5fec5400dae5e451af992642 = Mexican
+5fec5400dae5e451af992643 = American
+5fec5400dae5e451af9925bc = Japanese
+5fec5400dae5e451af9925da = Tamil
+5fec5400dae5e451af992650 = Brazilian
+5fec5400dae5e451af9925e2 = Goan
+5fec5400dae5e451af992604 = Arab
+5fec5400dae5e451af992617 = Moroccan
+5fec5400dae5e451af992635 = Turkish
+
+
+used cuisine till now :-
+
+American - working
+Indian - working
+Gujarati- wroking
+Chineese
+Mughlai
+Punjabi
+Bengali
+Andhra
+Kashmiri
+Kerela
+Maharasthra
+North Indian
+Uttart Pradesh
+Australian
+French
+Goan
+South Indian
+Uttar pradesh
+Tamil
+Odia
